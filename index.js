@@ -1,12 +1,3 @@
-function beatlesPlay(musicians,instruments){
-  var playinTheBeatles=[];
-  for (let i=0; i<4; i++);{
-    array.push(`${musicians[i] plays ${instruments}`);
-    }
-  return playinTheBeatles;
-}
-
-
 function johnLennonFacts(facts){
   var lennonFacts = []
   var i = 0
@@ -27,4 +18,11 @@ function johnLennonFacts(facts){
   return beatles
 }
 
+function beatlesPlay(musicians,instruments){
+  var playinTheBeatles=[];
+  for (let i=0; i<4; i++);{
+    array.push(`${musicians[i] plays ${instruments}`);
+    }
+  return playinTheBeatles;
+}
   
