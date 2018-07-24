@@ -18,11 +18,10 @@ function johnLennonFacts(facts){
   return beatles
 }
 
-function theBeatlesPlay(musicians,instruments){
-  const playinTheBeatles=[];
-  for (var i = 0, l=musicians.length; i < l; i++);{
-    playinTheBeatles.push(`${musicians[i]} plays ${instruments[i]}`);
+function theBeatlesPlay(musicians,instruments) {
+  const playinTheBeatles=[]
+  for (let i = 0, l=musicians.length; i < l; i++) {
+    playinTheBeatles.push(`${musicians[i]} plays ${instruments[i]}`)
     }
   return playinTheBeatles
 }
-  
