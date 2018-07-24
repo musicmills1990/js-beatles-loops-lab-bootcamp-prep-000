@@ -1,8 +1,9 @@
 function beatlesPlay(musicians,instruments){
   var playinTheBeatles=[];
-  for (){
-    
-  return be3atles;
+  for (let i=0; i<4; i++);{
+    array.push(`${musicians[i] plays ${instruments}`);
+    }
+  return playinTheBeatles;
 }
 
 
