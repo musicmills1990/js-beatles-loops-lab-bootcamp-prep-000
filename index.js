@@ -1,7 +1,7 @@
 function beatlesPlay(musicians,instruments){
   var playinTheBeatles=[];
   for (){
-  console.log(`${musicians} plays ${instruments}`);}
+    
   return be3atles;
 }
 
