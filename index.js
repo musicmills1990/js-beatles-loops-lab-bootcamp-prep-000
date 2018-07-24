@@ -18,7 +18,7 @@ function johnLennonFacts(facts){
   return beatles
 }
 
-function beatlesPlay(musicians,instruments){
+function theBeatlesPlay(musicians,instruments){
   var playinTheBeatles=[];
   for (let i=0; i<4; i++);{
     array.push(`${musicians[i]} plays ${instruments[i]}`);
