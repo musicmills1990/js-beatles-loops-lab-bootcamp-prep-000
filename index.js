@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 
 function theBeatlesPlay(musicians,instruments){
   var playinTheBeatles=[];
-  for (let i=0; i<4; i++);{
+  for (let i = 0; i < 4; i++);{
     playinTheBeatles.push(`${musicians[i]} plays ${instruments[i]}`);
     }
   return playinTheBeatles;
